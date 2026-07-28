@@ -1,0 +1,2 @@
+import ApplicationsCommutativeAlgebraEGCanonicalLaneLean.GateLemmas
+import ApplicationsCommutativeAlgebraEGCanonicalLaneLean.FinalTheorem
